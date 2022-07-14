@@ -39,7 +39,7 @@ Later, the school board detected some problem with the reading and math grades f
 ### Figure 4: Grade wise math score for each school.
 
 
-"nan" value is presented of the Thomas High School 9th grade.
+"nan" is present of the Thomas High School 9th grade.
 
 
 ![Figure 4](https://github.com/gothwalritu/School_District_Analysis/blob/main/screenshots/math_score_by_grade.png)
@@ -48,7 +48,7 @@ Later, the school board detected some problem with the reading and math grades f
 ### Figure 5: Grade wise reading score for each school.
 
 
-"nan" value is presented of the Thomas High School 9th grade.
+"nan" is present of the Thomas High School 9th grade.
 
 
 ![Figure 5](https://github.com/gothwalritu/School_District_Analysis/blob/main/screenshots/reading_score_by_grade.png)
